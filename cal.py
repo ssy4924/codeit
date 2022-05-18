@@ -5,4 +5,8 @@ def minus(a,b):
 
 def multiple(a,b):
     return a*b
+def dvide(a,b):
+    return a/b
 
+def aaa(a,b):
+    return a
