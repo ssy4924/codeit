@@ -10,3 +10,5 @@ def dvide(a,b):
 
 def aaa(a,b):
     return a
+def sayhello():
+    print('sayhello')
